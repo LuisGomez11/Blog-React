@@ -1,0 +1,16 @@
+#texto {
+	margin-top: 40px;
+	width: 80%;
+	height: 40px;
+}
+
+#boton{
+	height: 40px;
+	background-color: #CCC;
+	border: black 2px solid;
+}
+
+#boton:hover{
+	background-color: #EEE;
+	cursor: pointer;
+}

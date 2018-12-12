@@ -1,0 +1,42 @@
+.Nav {
+    text-align: center;
+    background-color: black;
+    height: 100px;
+    padding: 20px;
+    color: white;
+    display: block;
+}
+
+.Menu {
+
+    padding-left: 50px;
+    list-style: none;
+
+}
+
+.Menu li {
+
+    display: inline-block;
+    padding-right: 10px;
+}
+
+.Menu li a {
+
+    color: #CCC;
+    text-decoration: none;
+
+}
+
+.Menu li a:hover {
+
+    color: #EEE;
+
+}
+
+img {
+    position: relative;
+    width: 70px;
+    height: 70px;
+    margin-left: 50px;
+    margin-top: -5px;
+}
